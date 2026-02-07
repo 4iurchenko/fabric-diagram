@@ -1,0 +1,27 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;\" value=\"Title\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"100\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 40
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Text\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 60,
+    "h": 30
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;\" value=\"&amp;lt;h1 style=&amp;quot;margin-top: 0px;&amp;quot;&amp;gt;Heading&amp;lt;/h1&amp;gt;&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;lt;/p&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"120\" width=\"180\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 180,
+    "h": 120
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;\" value=\"&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Value 1&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Value 2&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Value 3&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"80\" width=\"100\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 80
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;\" value=\"&amp;lt;ol&amp;gt;&amp;lt;li&amp;gt;Value 1&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Value 2&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Value 3&amp;lt;/li&amp;gt;&amp;lt;/ol&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"80\" width=\"100\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 80
+  }
+]</mxlibrary>
