@@ -4,7 +4,7 @@ Templates for Draw.IO to build astonishing diagrams for Microsoft Fabric
 1. Add that to Extras/Configuration one time:
 ```
 {
-  "templateFile": "https://github.com/dataassets1/fabric-diagram/blob/main/v1.01/template/FabricTemplate.xml"
+  "templateFile": "https://raw.githubusercontent.com/dataassets1/fabric-diagram/refs/heads/main/v1.01/template/FabricTemplate.xml"
 }
 ```
 
